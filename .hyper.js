@@ -140,10 +140,7 @@ module.exports = {
     //"hyper-opacity",
     plugins: [
     "hyper-snazzy",
-    "hyper-systray",
-    "hyper-clean",
-    "hyperborder",
-    "hyper-quickssh"
+    "hyper-manager"
     ],
     // in development, you can create a directory under
     // `~/.hyper_plugins/local/` and include it here
